@@ -24,3 +24,5 @@ Route::group(['middleware' => 'api', 'namespace' => 'App\Http\Controllers', 'pre
     Route::post('me', [AuthController::class, 'me']);
 });
 
+// hasil login
+<img width="1000" alt="Screenshot 2022-11-17 at 13 36 33" src="https://user-images.githubusercontent.com/49187517/202374262-c18bfe91-5539-4245-b4f3-7c2d64389bcb.png">
